@@ -17,7 +17,7 @@ body {
 }
 
 #container {
-	max-width: 800px;
+	max-width: 600px;
 	margin: 20px auto;
 }
 
@@ -28,13 +28,12 @@ h1 {
 	color: white;
 	background: steelblue;
 	margin: 0;
-	font-size: 64px;
 	text-transform: uppercase;
 	padding: 20px 0;
 }
 
 #colorDisplay {
-	font-size: 150%;
+	font-size: 200%;
 }
 
 #message {
@@ -44,10 +43,9 @@ h1 {
 
 #stripe {
 	background: white;
-	height: 36px;
+	height: 30px;
 	text-align: center;
 	color: black;
-	font-size: 28px;
 }
 
 .selected {
